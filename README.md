@@ -1,6 +1,7 @@
 # yasam_beklentisi
 
 Yaşam süresini hesaplayan bir program.
+Mobile App...
 
 ## Getting Started
 
