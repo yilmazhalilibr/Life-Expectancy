@@ -1,6 +1,6 @@
 # yasam_beklentisi
 
-A new Flutter project.
+Yaşam süresini hesaplayan bir program.
 
 ## Getting Started
 
