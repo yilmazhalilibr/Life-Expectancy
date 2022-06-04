@@ -1,6 +1,6 @@
 # yasam_beklentisi
 
-Yaşam süresini hesaplayan bir program.
+A program that calculates life expectancy.
 Mobile App...
 
 ## Getting Started
